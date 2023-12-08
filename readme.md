@@ -1,4 +1,4 @@
-##typehero advent of code
+#typehero advent of code
 
 Collection of my not so impressive solutions.
 
